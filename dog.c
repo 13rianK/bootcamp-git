@@ -1,4 +1,5 @@
 puppy
+aussie
 canine
 wolf
 bark
